@@ -31,6 +31,3 @@ This is a simple full-stack web application that displays a list of upcoming soc
 
 ### 📄 License
 MIT
-
----
-Built for educational/demo purposes.
