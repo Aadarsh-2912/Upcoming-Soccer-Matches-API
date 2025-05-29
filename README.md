@@ -17,15 +17,15 @@ This project displays a list of upcoming **soccer matches**, including the teams
 
 ### 📁 Project Structure
 ```
-/basketball-frontend   # React frontend
-/soccer-backend        # Node.js backend
+/frontend   # React frontend
+/backend        # Node.js backend
 ```
 
 ### 🔧 Setup Instructions
 1. Clone the repository
 2. Install dependencies:
    - In each folder (`frontend` and `backend`): `npm install`
-3. Run the backend: `npm start`
+3. Run the backend: `node server.js`
 4. Run the frontend: `npm start`
 5. Open the frontend in the browser to see the match list
 
