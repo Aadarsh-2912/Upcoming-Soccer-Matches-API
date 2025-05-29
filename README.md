@@ -1,6 +1,6 @@
 # Upcoming Soccer Matches Viewer
 
-This project displays a list of upcoming **soccer matches**, including the teams and the scheduled date/time.
+This is a simple full-stack web application that displays a list of upcoming soccer matches. It fetches live match data from the Football-Data.org API and shows the two competing teams and the scheduled date/time for each match.
 
 ### 🌐 Live Demo
 **[View Live](https://upcoming-soccer-matches-api.vercel.app/)**
