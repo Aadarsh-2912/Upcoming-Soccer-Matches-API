@@ -13,7 +13,7 @@ interface Match {
   awayTeam: Team;
 }
 
-const API_URL = 'http://localhost:5000/api/upcoming-matches';
+const API_URL = 'https://upcoming-soccer-matches-api.onrender.com/api/upcoming-matches';
 
 const App: React.FC = () => {
   const [matches, setMatches] = useState<Match[]>([]);
